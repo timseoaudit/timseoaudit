@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @timseoaudit
-- 👀 I’m interested in Chess, Squash, Emergency Medicine and started Coding with Codecademy
-- 🌱 I’m currently learning HTML, CSS and JS for front-end development. I did learn some Python basics in the past. 
-- 💞️ I’m looking to collaborate on beginner friendly projects to learn and grow. This is all new to me and i am more confused than i like to admit. 
-- 📫 How to reach me? I guess best way is to reach me here
+- 👀 I’m interested in Chess, Squash, Emergency Medicine and Mobile App Development
+- 🌱 I’m currently focused on Swift and Flutter development for mobile apps with firebase backend. I did learn some Python, HTML, CSS and JS with REACT in the past. 
+- 💞️ I’m looking to collaborate on projects to learn and grow in my. 
+- 📫 The best way to reach out to me is either here or via timseoaudit@gmail.com
 
-  I plan to publish all my Codecademy Projects so I can see my Progress but also can share with other people what I did archive so far. 
+  I plan to publish most of my private Projects so I can share my Progress.
 
 <!---
 timseoaudit/timseoaudit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
